@@ -31,6 +31,10 @@ Cuando el jugador recolecta un total de cinco monedas, se activa un script llama
 ## Texto Victoria y puntuación:
 El juego tiene un marcador que suma la puntuación que vas alcanzando según las monedas que cojas, cuando llegas a 20 monedas (el máximo que se puede conseguir) ganas y el juego te lo confirma con un mensaje de 'Ganaste!!' en el centro de la pantalla.
 
+![alt text](img/image-3.png)
+
+![alt text](img/image-2.png)
+
 ## Animator
 Añado una animación al aparecer el texto de victoria lo cual hace que aparezca desde abajo y se mueva hacia el medio hasta quedarse ahí.
 
