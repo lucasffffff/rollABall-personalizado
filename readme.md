@@ -38,7 +38,4 @@ El juego tiene un marcador que suma la puntuación que vas alcanzando según las
 ## Animator
 Añado una animación al aparecer el texto de victoria lo cual hace que aparezca desde abajo y se mueva hacia el medio hasta quedarse ahí.
 
-![alt text](img/image-3.png)
-
-![alt text](img/image-2.png)
 
